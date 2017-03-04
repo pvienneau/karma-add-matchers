@@ -1,0 +1,32 @@
+{
+    "name": "karma-add-matchers",
+    "version": "1.0.0",
+    "author": "Patrick Vienneau (https://github.com/pvienneau)",
+    "bugs": {
+        "url": "https://github.com/pvienneau/karma-add-matchers/issues"
+    },
+    "contributors": [
+        "Patrick Vienneau (https://github.com/pvienneau)"
+    ],
+    "dependencies": {
+        "add-matchers": "^0.4.0"
+    },
+    "description": "A Karma plugin - adapter for the add-matchers library",
+    "homepage": "https://github.com/pvienneau/karma-add-matchers",
+    "keywords": [
+        "Jasmine",
+        "Jest",
+        "karma-adapter",
+        "karma-plugin",
+        "Karma",
+        "matchers",
+        "TDD",
+        "testing"
+    ],
+    "license": "MIT",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/pvienneau/karma-add-matchers.git"
+    }
+}
