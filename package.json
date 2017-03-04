@@ -11,7 +11,7 @@
     "dependencies": {
         "add-matchers": "^0.4.0"
     },
-    "description": "A Karma plugin - adapter for the add-matchers library",
+    "description": "A Karma adapter for the add-matchers library",
     "homepage": "https://github.com/pvienneau/karma-add-matchers",
     "keywords": [
         "Jasmine",

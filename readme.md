@@ -1,6 +1,6 @@
 # karma-add-matchers
 
-A [Karma](http://karma-runner.github.io/) plugin to inject [add-matchers](https://github.com/JamieMason/add-matchers) for [Jasmine](http://jasmine.github.io/) or [Jest](https://facebook.github.io/jest/).
+A [Karma](http://karma-runner.github.io/) adapter to inject [add-matchers](https://github.com/JamieMason/add-matchers) for [Jasmine](http://jasmine.github.io/) or [Jest](https://facebook.github.io/jest/).
 
 ## Installation
 
