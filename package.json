@@ -9,7 +9,7 @@
         "Patrick Vienneau (https://github.com/pvienneau)"
     ],
     "dependencies": {
-        "add-matchers": "^0.4.0"
+        "add-matchers": "^0.5.0"
     },
     "description": "A Karma adapter for the add-matchers library",
     "homepage": "https://github.com/pvienneau/karma-add-matchers",

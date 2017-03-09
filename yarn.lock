@@ -2,6 +2,6 @@
 # yarn lockfile v1
 
 
-add-matchers@^0.4.0:
-  version "0.4.0"
-  resolved "https://registry.yarnpkg.com/add-matchers/-/add-matchers-0.4.0.tgz#fd2cf6331167827ef321c52a02cc4ef48e940821"
+add-matchers@^0.5.0:
+  version "0.5.0"
+  resolved "https://registry.yarnpkg.com/add-matchers/-/add-matchers-0.5.0.tgz#502190e4750cd5721618393268b61a157366e765"
